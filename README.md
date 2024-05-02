@@ -8,7 +8,7 @@ Este projeto foi desenvolvido durante uma aula na plataforma Digital Innovation 
 ## Tecnologias Utilizadas
 - HTML5
 - CSS3
-- Bootstrap 4
+- Bootstrap 5
 
 ## Funcionalidades
 - Layout responsivo que se adapta a diferentes tamanhos de tela.
