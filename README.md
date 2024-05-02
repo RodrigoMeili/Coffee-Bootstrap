@@ -1,5 +1,7 @@
 # Projeto de Página Web Responsiva com Bootstrap
 
+![Imagem projeto final](Assets/images/Screenshot-page.png)
+
 ## Sobre o Projeto
 Este projeto foi desenvolvido durante uma aula na plataforma Digital Innovation One (DIO). O objetivo era criar uma página web responsiva utilizando o framework Bootstrap, integrando também conhecimentos prévios de HTML e CSS.
 
@@ -27,3 +29,5 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 
 ## Contato
 Rodrigo Meili - @rodrigo_meili
+
+Link do Projeto: https://rodrigomeili.github.io/Coffee-Bootstrap/
